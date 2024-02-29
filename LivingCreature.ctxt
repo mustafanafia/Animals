@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LivingCreature
+comment1.params=isAlive\ dateOfBirth\ dateOfDeath\ description
+comment1.target=LivingCreature(boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=description
+comment10.target=void\ setDescription(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ move()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=LivingCreature()
+comment3.params=
+comment3.target=boolean\ checkIsAlive()
+comment4.params=
+comment4.target=java.lang.String\ getDateOfBirth()
+comment5.params=
+comment5.target=java.lang.String\ getDateOfDeath()
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+comment7.params=isAlive
+comment7.target=void\ setIsAlive(boolean)
+comment8.params=dateOfBirth
+comment8.target=void\ setDateOfBirth(java.lang.String)
+comment9.params=dateOfDeath
+comment9.target=void\ setBirthYear(java.lang.String)
+numComments=13

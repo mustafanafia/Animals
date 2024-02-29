@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cat
+comment1.params=isAlive\ dateOfBirth\ dateOfDeath\ description\ name\ color\ gender
+comment1.target=Cat(boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Cat()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=char\ getGender()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=color
+comment7.target=void\ setColor(java.lang.String)
+comment8.params=gender
+comment8.target=void\ setGender(char)
+comment9.params=
+comment9.target=java.lang.String\ move()
+numComments=11
